@@ -1,5 +1,4 @@
-# ReliaQuest-
-# ReliaQuest Associate Engineer – IT Foundations & Security Readiness
+## IT Foundations & Security Readiness
 
 ## 👋 About This Repository
 
